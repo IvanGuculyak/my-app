@@ -1,0 +1,10 @@
+.content {
+    grid-area: content;
+    background: aqua;
+}
+
+.content img {
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
